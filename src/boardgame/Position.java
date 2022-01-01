@@ -1,4 +1,4 @@
-package applicatiton;
+package boardgame;
 
 public class Position {
 	
@@ -31,7 +31,4 @@ public class Position {
 	public String toString() {
 		return row + ", " + column;
 	}
-	
-	
-
 }
